@@ -1,0 +1,100 @@
+/* Общие стили */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #0f172a;
+  color: #ffffff;
+  line-height: 1.6;
+}
+
+/* Хедер */
+header {
+  background: linear-gradient(135deg, #3b82f6, #6366f1);
+  padding: 60px 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 3em;
+}
+
+header p {
+  font-size: 1.2em;
+  margin: 10px 0 20px;
+}
+
+header .btn {
+  padding: 12px 25px;
+  background: #22c55e;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+header .btn:hover {
+  background: #16a34a;
+}
+
+/* Основной контент */
+main {
+  padding: 50px 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.projects h2 {
+  text-align: center;
+  font-size: 2em;
+  margin-bottom: 40px;
+  color: #38bdf8;
+}
+
+.project-card {
+  background: #1e293b;
+  padding: 25px;
+  margin-bottom: 25px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.4);
+}
+
+.project-card h3 {
+  margin-top: 0;
+  color: #facc15;
+}
+
+.project-card p {
+  margin: 12px 0;
+}
+
+.project-card .btn {
+  display: inline-block;
+  margin-top: 12px;
+  padding: 10px 20px;
+  background: #3b82f6;
+  border-radius: 6px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.project-card .btn:hover {
+  background: #2563eb;
+}
+
+/* Футер */
+footer {
+  text-align: center;
+  padding: 25px 0;
+  background: #111827;
+  color: #94a3b8;
+}
