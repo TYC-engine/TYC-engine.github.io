@@ -1,5 +1,20 @@
-# PROJECTS
+---
+layout: default
+title: TheOmNom
+---
 
-| OMRS | TYC-engine | MegaEngine |
-|:-----|:--------:|-------|
-| [OMRS](https://TYC-engine.github.io/omrs) | [TYC-engine](https://TYC-engine.github.io/tyc-engine) | [MegaEngine](https://m.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUIcmlja3JvbGw%3D) |
+# TheOmNom
+
+One-man programming team
+
+[Официальный сайт](https://tyc-engine.github.io/)
+
+## Проекты
+
+### TYC-engine
+Основной проект, разработка движка и инструментов.  
+[Посмотреть](https://tyc-engine.github.io/)
+
+### OMRS (OmNomRenderSystem)
+Система рендеринга для проектов.  
+[Посмотреть](https://tyc-engine.github.io/omrs)
