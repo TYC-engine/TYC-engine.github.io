@@ -1,5 +1,5 @@
 # PROJECTS
 
-| OMRS | По центру | Справа |
+| OMRS | TYC-engine | Справа |
 |:-----|:--------:|-------|
-| [OMRS](https://TYC-engine.github.io/omrs) | Текст | Текст |
+| [OMRS](https://TYC-engine.github.io/omrs) | [TYC-engine](https://404.html | Текст |
