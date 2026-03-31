@@ -1,8 +1,3 @@
----
-layout: default
-title: TheOmNom
----
-
 # TheOmNom
 
 One-man programming team
