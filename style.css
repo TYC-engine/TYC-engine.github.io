@@ -7,6 +7,37 @@ body {
   line-height: 1.6;
 }
 
+/* NAVBAR */
+.navbar {
+  border-bottom: 1px solid #1f2933;
+  background: #0b0f14;
+}
+
+.nav-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 12px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-weight: bold;
+  color: #f9fafb;
+}
+
+.nav-links a {
+  margin-left: 20px;
+  color: #9ca3af;
+  text-decoration: none;
+  font-size: 0.95em;
+}
+
+.nav-links a:hover {
+  color: #e5e7eb;
+}
+
 /* Контейнер */
 main {
   max-width: 900px;
